@@ -1,2 +1,2 @@
-#!/bib/bash
-chmod -R +X .
+#!/bin/bash
+chmod -R +X *
